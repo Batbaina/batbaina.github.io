@@ -1,3 +1,3 @@
 # batbaina.io
 
-[batbaina.io](https://batbaina.io)
+[batbaina.github.io](https://batbaina.io)
